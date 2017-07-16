@@ -1,0 +1,13 @@
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\CheckUniqueCharacter.exe
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\CheckUniqueCharacter.pdb
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.csprojResolveAssemblyReference.cache
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\MainWindow.g.cs
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\App.g.cs
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter_MarkupCompile.cache
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter_MarkupCompile.lref
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\MainWindow.baml
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.g.resources
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.Properties.Resources.resources
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.csproj.GenerateResource.Cache
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.exe
+C:\Users\WebDev\Desktop\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\CheckUniqueCharacter.pdb
